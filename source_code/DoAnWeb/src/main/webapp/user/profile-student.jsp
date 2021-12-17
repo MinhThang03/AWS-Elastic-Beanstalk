@@ -403,12 +403,12 @@
 <script>
     // Your web app's Firebase configuration
     var firebaseConfig = {
-        apiKey: "AIzaSyD5BoAhaPJEa8od2AeEuHQ_F5uSiVgkiZo",
-        authDomain: "web-project-f2d64.firebaseapp.com",
-        projectId: "web-project-f2d64",
-        storageBucket: "web-project-f2d64.appspot.com",
-        messagingSenderId: "678143380989",
-        appId: "1:678143380989:web:f6ca529183bfa7454f1d94"
+        apiKey: "AIzaSyCwkMP895Ak3eTpUQ8VmGHEW8xpvE62fIg",
+        authDomain: "project-web-e7691.firebaseapp.com",
+        projectId: "project-web-e7691",
+        storageBucket: "project-web-e7691.appspot.com",
+        messagingSenderId: "933906876365",
+        appId: "1:933906876365:web:eb658f73c17ab55676e684"
     };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);

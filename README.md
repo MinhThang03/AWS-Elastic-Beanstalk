@@ -15,12 +15,23 @@
  # 2.1 Cài đặt RDS
  
     Bước 1: vào RDS chọn create  database.
+    <img src="https://firebasestorage.googleapis.com/v0/b/cloud-final-46f24.appspot.com/o/hinh1.png?alt=media&token=76b143fc-6133-4ff7-a6de-ae23f37ecdec">
     Bước 2: Chọn framework vsà phiên bản mà bạn sữ dụng.
+    <img src="https://firebasestorage.googleapis.com/v0/b/cloud-final-46f24.appspot.com/o/hinh2.png?alt=media&token=53fa6289-3063-4225-af4a-d1442252d6a3">
+    <img src="https://firebasestorage.googleapis.com/v0/b/cloud-final-46f24.appspot.com/o/hinh3.png?alt=media&token=98288065-cb4a-4077-8fa0-4bd8b33f1be9">
     Bước 3: Đặt tên và đặt password.
+    <img src="https://firebasestorage.googleapis.com/v0/b/cloud-final-46f24.appspot.com/o/hinh5.png?alt=media&token=a494d844-148f-4ed5-9c80-2d7df432e249">
     Bước 4: tuỳ chỉnh các thông sô.
+    <img src="https://firebasestorage.googleapis.com/v0/b/cloud-final-46f24.appspot.com/o/hinh6.png?alt=media&token=6986c497-aa97-465f-832d-c54f2faa35db">
+    <img src="https://firebasestorage.googleapis.com/v0/b/cloud-final-46f24.appspot.com/o/hinh7.png?alt=media&token=4b6bf515-4b2d-43be-b059-fdc81c725b8d">
+    <img src="https://firebasestorage.googleapis.com/v0/b/cloud-final-46f24.appspot.com/o/hinh8.png?alt=media&token=9df973dc-522b-4d08-8dc1-433b930f6c06">
     Bước 5: kết nỗi với local.
         - Đầu tiên các bạn hãy thay đổi địa chỉ cho phép truy cập vào database trên aws
+    <img src="https://firebasestorage.googleapis.com/v0/b/cloud-final-46f24.appspot.com/o/hinh9.png?alt=media&token=eec91ae3-4289-49b8-a51c-889019f19380">
+    <img src="https://firebasestorage.googleapis.com/v0/b/cloud-final-46f24.appspot.com/o/hinh10.png?alt=media&token=209ac407-76b6-4e23-9615-9092e0bd3328">
         - Vào lại trang thông tin của database để lấy các thông tin cần thiết kết nối với local của bạn.
+    <img src="https://firebasestorage.googleapis.com/v0/b/cloud-final-46f24.appspot.com/o/hinh11.png?alt=media&token=301c9a16-8ee8-49bf-ba12-e0aa71137eb7">
+    <img src="https://firebasestorage.googleapis.com/v0/b/cloud-final-46f24.appspot.com/o/hinh12.png?alt=media&token=d42ea365-bc05-4f1b-875d-44e769fc1b56">
         - Thực hiện điền các thông tin và test connect
  
  # 2.2 Import file backup data
